@@ -75,16 +75,7 @@ Com os dados da consulta e os indicadores calculados, construir um **painel inte
 ## 📁 Entrega Esperada
 
 1. **Script SQL** utilizado para gerar o resultado.  
-2. **Base de dados exportada** (planilha com o resultado consolidado).  
-3. **Painel montado** (Power BI / Excel / Data Studio).  
-4. **Resumo com principais insights e observações.**
+2. **Painel montado** (Power BI).  
+3. **Resumo com principais insights e observações.**
 
----
 
-## 💡 Dica
-O layout da tabela deve seguir o exemplo mostrado (com colunas de janeiro a dezembro, total e média mensal).  
-Capriche na apresentação visual do painel, destacando indicadores-chave de forma clara e intuitiva.
-
----
-
-### ✅ Sugestão de Organização no Repositório
