@@ -18,6 +18,9 @@ Usando as duas tabelas fornecidas, montar uma consulta que apresente os seguinte
 | `total_acumulado` | Soma de todos os meses |
 | `media_mensal` | Média aritmética dos valores mensais |
 
+<img width="1713" height="373" alt="image" src="https://github.com/user-attachments/assets/b9186408-b35d-46ae-9be1-4f38902538fa" />
+
+
 ### Requisitos técnicos
 - Consolidar os dados por **descrição analítica** ou **conta contábil**.  
 - Tratar valores nulos (meses sem movimento).  
